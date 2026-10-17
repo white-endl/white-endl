@@ -1,52 +1,61 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=180&section=header&text=%EB%B0%B1%EC%9E%AC%EC%9C%A4&fontSize=36&fontColor=ffffff&fontAlignY=36&desc=Affective%20AI%20%C2%B7%20Human-Robot%20Interaction%20%C2%B7%20BCI&descAlignY=58&descSize=16" width="100%" alt="백재윤" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=180&section=header&text=Baek%20Jae%20Yoon&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Affective%20AI%20%C2%B7%20Human-Robot%20Interaction%20%C2%B7%20BCI&descAlignY=58&descSize=16" width="100%" alt="Baek Jae Yoon" />
 
-**인하대학교 전기컴퓨터공학과 인공지능전공 석사과정 · Affctiv-AI Lab**
+**M.S. Student in Artificial Intelligence, Inha University · Affctiv-AI Lab**
 
-사람의 감정을 이해하고 함께 대화하는 AI를 만듭니다.
+Building AI that understands human emotion and talks with people.
 
-<a href="https://www.notion.so/Email-af61582cb3a446b395cd1f5d345687a8"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.notion.so/instagram-a897ecd6f4bd49ba9c668974c6356a89"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://www.notion.so/fab8ec1797814fde85ec5cb730d732ca"><img src="https://img.shields.io/badge/Activities-000000?style=flat-square&logo=notion&logoColor=white" alt="Activities (Notion)" /></a>
+<a href="mailto:wit@inha.edu"><img src="https://img.shields.io/badge/wit@inha.edu-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.instagram.com/w_hite_0/"><img src="https://img.shields.io/badge/@w__hite__0-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <img src="https://img.shields.io/badge/Mensa%20Korea-IQ%20%3E%20156-1E3A8A?style=flat-square" alt="Mensa Korea" />
 
 </div>
 
 ## 👋 About
 
-- 🎓 인하대학교 **전기컴퓨터공학과 인공지능전공 석사과정** (2026.08 ~) · **Affctiv-AI Lab**
-- 🔬 관심 분야: **Affective Computing**, **Human-Robot Interaction**, 대화형 AI(LLM·STT·TTS), BCI, IoT
-- 🧩 **Mensa Korea** 회원 (IQ > 156) · 퍼즐위원회 위원 · 사회공헌위원회 위원
-- 🚀 아이디어를 직접 실행으로 옮기는 것을 좋아하고, 기획부터 개발·디자인·마케팅까지 해내는 **풀스택 메이커**를 지향합니다.
+- 🎓 **M.S. student**, Department of Electrical and Computer Engineering (Artificial Intelligence major), Inha University (Aug 2026 – present) · **Affctiv-AI Lab**
+- 🔬 Interests: **Affective Computing**, **Human-Robot Interaction**, conversational AI (LLM · STT · TTS), BCI, IoT
+- 🧩 **Mensa Korea** member (IQ > 156) · Puzzle Committee · Social Contribution Committee
+- 🚀 I like turning ideas into working things, and aim to be a **full-stack maker** who can plan, build, design and market a product end to end.
+
+## 🎓 Education
+
+| Period | Degree |
+|---|---|
+| Aug 2026 – present | **M.S.**, Electrical and Computer Engineering (Artificial Intelligence), Inha University · Affctiv-AI Lab |
+| – Aug 2026 | **B.S.**, Electrical and Electronic Engineering, Inha University |
 
 ## 🔬 Research & Projects
 
-### 🤖 Robi: 유치원 설치형 정서 대화 AI 로봇 <sub>Affctiv-AI Lab · 2026 ~</sub>
+### 🤖 Robi: An Affective Conversational Robot for Kindergartens <sub>Affctiv-AI Lab · 2026 –</sub>
 
-유아와 음성으로 대화하며 **라포 형성 · 정서 증진 · 진단(분류)** 을 수행하는 로봇입니다.
+A voice-based robot installed in kindergartens that talks with young children to **build rapport, support emotional development, and assess (classify)** their responses.
 
-- 라포형 / 증진형 / 분류형 세 가지 대화 모드와 주차별 프롬프트 설계
-- RFID 카드로 아이를 식별하고 이름을 불러 주는 개인화 상호작용
-- Raspberry Pi 기반 음성 파이프라인 (STT · TTS · LLM · AEC), 실험 전 부품 자동 점검
-- 세션 기록 자동 백업과 실험 현황 점검 대시보드
+- Three dialogue modes (rapport / enhancement / classification) with week-by-week prompt design
+- Personalized interaction: identifies each child with an RFID card and greets them by name
+- Raspberry Pi voice pipeline (STT · TTS · LLM · echo cancellation) with automated pre-session hardware checks
+- Automatic session backup and an experiment-monitoring dashboard
 
-<sub>※ 연구실 비공개 저장소</sub>
+<sub>※ Private lab repository</sub>
 
-## 🏆 Experience & Awards
+## 🏆 Awards
 
-| 연도 | 내용 |
+| Year | Award |
 |---|---|
-| | Mensa Korea 퍼즐위원회 · 사회공헌위원회 위원 |
-| 2022 | 아이스타트업랩 스타트업 엑셀러레이팅 **대상** |
-| 2021 | 아이스타트업랩 스타트업 엑셀러레이팅 **대상** |
-| 2021 | 아이스타트업랩 슈퍼챌린지 메이커톤 **최우수상** |
-| 2020 | KAIST GRAFFITI STARTUP Festival 해커톤 수료 |
-| | Univ. Makeus Challenge inha 3rd iOS 파트장 (운영진) |
-| | 인하벤처클럽(인하대 창업지원단 창업동아리) 26기 부회장 |
-| | 인하대학교 중앙 컴퓨터동아리 INCOM 41기 총무 |
-| | 인천기반 청년창업 커뮤니티 위탁사업 진행 |
-| | The Innovators 서포터즈 · NEXT CHALLENGE FIS(Future Innovation School) 1기 수료 |
+| 2022 | **Grand Prize**, i-Startup Lab Startup Accelerating |
+| 2021 | **Grand Prize**, i-Startup Lab Startup Accelerating |
+| 2021 | **First Prize**, i-Startup Lab Super Challenge Makerthon |
+| 2020 | Completed, KAIST GRAFFITI STARTUP Festival Hackathon |
+
+## 🌱 Activities & Leadership
+
+- **Mensa Korea**: Puzzle Committee member, Social Contribution Committee member
+- **Univ. Makeus Challenge (Inha, 3rd)**: iOS Part Lead (organizing team)
+- **Inha Venture Club** (startup club, Inha Startup Support Foundation): Vice President, 26th
+- **INCOM** (Inha University central computer club): Treasurer, 41st
+- Ran an Incheon-based youth startup community program (commissioned project)
+- Completed **The Innovators** Supporters and **NEXT CHALLENGE FIS** (Future Innovation School), 1st cohort
 
 ## 🛠️ Tech Stack
 
@@ -74,21 +83,21 @@
 <img src="https://img.shields.io/badge/Google%20Tag%20Manager-246FDB?style=flat-square&logo=googletagmanager&logoColor=white" alt="Google Tag Manager" />
 
 <details>
-<summary><b>스택별 경험 자세히 보기</b></summary>
+<summary><b>More on each skill</b></summary>
 
-- **3D Modeling (Inventor / Fusion 360)**: 프로젝트 부품 설계와 도면 작성, 고등학생·대학생 대상 교육 경험
-- **Arduino**: 회로 구성과 3D 프린팅을 응용한 IoT 스마트홈, 4족보행 로봇, 지문인식 금고 프로젝트, 교육 경험
-- **3D Printing / Laser Cutting**: 슬라이서(Cura, Sindoh) 설정과 G-code 구성, 레이저 커팅 활용
-- **C / C++**: 알고리즘 문제 해결, 객체지향 프로그래밍, 자료구조 이수
-- **Python**: 대화형 AI 로봇 개발, 알고리즘 문제 해결, 엑셀 업무 자동화
-- **Unity**: AR · VR · MR 개발 학습
-- **GA4 / GTM**: AARRR 개선을 위한 유입 경로·클릭·스크롤 깊이 등 사용자 행동 수집과 분석
+- **3D Modeling (Inventor / Fusion 360)**: designs parts and drawings for projects; has taught the basics to high school and university students
+- **Arduino**: builds circuits and combines them with 3D printing in projects such as an IoT smart home, a quadruped robot and a fingerprint safe; teaching experience
+- **3D Printing / Laser Cutting**: configures slicers (Cura, Sindoh) and G-code; uses laser cutting in projects
+- **C / C++**: algorithm problem solving, object-oriented programming, Data Structures coursework
+- **Python**: conversational AI robot development, algorithm problem solving, Excel automation
+- **Unity**: AR · VR · MR development
+- **GA4 / GTM**: collects and analyzes user acquisition, clicks, scroll depth and other behavior to improve AARRR metrics
 
 </details>
 
 ## 💡 Keywords
 
-`리더십` `집중` `선한 영향력` `추진력` `책임감` `ENTJ`
+`Leadership` `Focus` `Positive Influence` `Drive` `Responsibility` `ENTJ`
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=100&section=footer" width="100%" alt="" />
