@@ -1,23 +1,23 @@
 # Baek Jae Yoon
 
-M.S. Student in Artificial Intelligence, Inha University · [Affctiv-AI Lab](https://affective.netlify.app/)
-[wit@inha.edu](mailto:wit@inha.edu) · [Instagram @w_hite_0](https://www.instagram.com/w_hite_0/)
+M.S. Student in Artificial Intelligence, Inha University · [Affctiv-AI Lab](https://affective.netlify.app/)  
+[wit@inha.edu](mailto:wit@inha.edu) · [Instagram @w_hite_0](https://www.instagram.com/w_hite_0/)  
 
-I build AI that understands human emotion and talks with people. My research interests are **affective computing**, **human-robot interaction**, conversational AI (LLM · STT · TTS), BCI and IoT.
+I build AI that understands human emotion and talks with people. My research interests are **affective computing**, **human-robot interaction**, conversational AI (LLM · STT · TTS), BCI and IoT.  
 
 ---
 
 ### Education
 
-**M.S., Electrical and Computer Engineering (Artificial Intelligence)**, Inha University — Aug 2026 – present
-[Affctiv-AI Lab](https://affective.netlify.app/)
+**M.S., Electrical and Computer Engineering (Artificial Intelligence)**, Inha University — Aug 2026 – present  
+[Affctiv-AI Lab](https://affective.netlify.app/)  
 
-**B.S., Electrical and Electronic Engineering**, Inha University — Aug 2026
+**B.S., Electrical and Electronic Engineering**, Inha University — Aug 2026  
 
 ### Research
 
-**Robi: An Affective Conversational Robot for Kindergartens** — [Affctiv-AI Lab](https://affective.netlify.app/), 2026 –
-A voice-based robot that talks with young children to build rapport, support emotional development, and assess their responses. Three dialogue modes with week-by-week prompt design, RFID-based personalization, and a Raspberry Pi voice pipeline (STT · TTS · LLM · echo cancellation).
+**Robi: An Affective Conversational Robot for Kindergartens** — [Affctiv-AI Lab](https://affective.netlify.app/), 2026 –  
+A voice-based robot that talks with young children to build rapport, support emotional development, and assess their responses. Three dialogue modes with week-by-week prompt design, RFID-based personalization, and a Raspberry Pi voice pipeline (STT · TTS · LLM · echo cancellation).  
 
 ### Awards
 
@@ -36,8 +36,8 @@ A voice-based robot that talks with young children to build rapport, support emo
 
 ### Skills
 
-**Languages** Python, C/C++, HTML/CSS/JavaScript
-**Conversational AI** OpenAI API, NAVER CLOVA Speech
-**Embedded Systems** Arduino, Raspberry Pi
-**3D Design & XR** Fusion 360, Inventor, 3D printing, laser cutting, Unity
-**Growth & Data** GA4, Google Tag Manager
+**Languages** Python, C/C++, HTML/CSS/JavaScript  
+**Conversational AI** OpenAI API, NAVER CLOVA Speech  
+**Embedded Systems** Arduino, Raspberry Pi  
+**3D Design & XR** Fusion 360, Inventor, 3D printing, laser cutting, Unity  
+**Growth & Data** GA4, Google Tag Manager  
