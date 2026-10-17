@@ -15,7 +15,6 @@
 
 - 🎓 **M.S. student**, Department of Electrical and Computer Engineering (Artificial Intelligence major), Inha University (Aug 2026 – present) · **[Affctiv-AI Lab](https://affective.netlify.app/)**
 - 🔬 Interests: **Affective Computing**, **Human-Robot Interaction**, conversational AI (LLM · STT · TTS), BCI, IoT
-- 🧩 **Mensa Korea** member · Puzzle Committee · Social Contribution Committee
 - 🚀 I like turning ideas into working things, and aim to be a **full-stack maker** who can plan, build, design and market a product end to end.
 
 ## 🎓 Education
@@ -51,10 +50,11 @@ A voice-based robot installed in kindergartens that talks with young children to
 | Year | Activity |
 |---|---|
 | Present | **Mensa Korea**: Puzzle Committee member, Social Contribution Committee member |
+| 2024 – 2025 | **Web Service Launch & Operation**: PM leading a team of 11 (4 frontend, 5 backend, 2 designers); owned service planning, wireframes, web development and marketing strategy and execution |
 | 2023 | **Univ. Makeus Challenge (Inha, 3rd)**: iOS Part Lead (organizing team) |
 | 2023 | Completed **NEXT CHALLENGE FIS** (Future Innovation School), 1st cohort |
 | 2022 | **Inha Venture Club** (startup club, Inha Startup Support Foundation): Vice President, 26th |
-| 2021 | **INCOM** (Inha University central computer club): General Affairs Officer, 41st (third-ranking officer after President and Vice President) |
+| 2021 | **INCOM** (Inha University central computer club): General Affairs Officer, 41st |
 | | Completed **The Innovators** Supporters |
 
 ## 🛠️ Tech Stack
@@ -69,7 +69,7 @@ A voice-based robot installed in kindergartens that talks with young children to
 
 **Conversational AI**<br/>
 <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" />
-<img src="https://img.shields.io/badge/NAVER%20CLOVA%20Speech-03C75A?style=flat-square&logo=naver&logoColor=white" alt="NAVER CLOVA Speech" />
+<img src="https://img.shields.io/badge/NAVER%20CLOVA-03C75A?style=flat-square&logo=naver&logoColor=white" alt="NAVER CLOVA" />
 
 **Embedded Systems**<br/>
 <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
