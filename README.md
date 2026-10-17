@@ -1,15 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=180&section=header&text=Baek%20Jae%20Yoon&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Affective%20AI%20%C2%B7%20Human-Robot%20Interaction%20%C2%B7%20BCI&descAlignY=58&descSize=16" width="100%" alt="Baek Jae Yoon" />
+<a href="https://github.com/white-endl"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=4F46E5&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Baek+Jae+Yoon+%F0%9F%91%8B;M.S.+Student+in+AI+%40+Inha+University;Affective+AI+%C2%B7+Human-Robot+Interaction;Building+robots+that+talk+with+kids+%F0%9F%A4%96" alt="Typing intro" /></a>
 
-**M.S. Student in Artificial Intelligence, Inha University · <a href="https://affective.netlify.app/">Affctiv-AI Lab</a>**
+<a href="mailto:wit@inha.edu"><img src="https://img.shields.io/badge/wit@inha.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.instagram.com/w_hite_0/"><img src="https://img.shields.io/badge/@w__hite__0-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://affective.netlify.app/"><img src="https://img.shields.io/badge/Affctiv--AI%20Lab-0EA5E9?style=for-the-badge" alt="Affctiv-AI Lab" /></a>
 
-Building AI that understands human emotion and talks with people.
-
-<a href="mailto:wit@inha.edu"><img src="https://img.shields.io/badge/wit@inha.edu-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.instagram.com/w_hite_0/"><img src="https://img.shields.io/badge/@w__hite__0-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://affective.netlify.app/"><img src="https://img.shields.io/badge/Affctiv--AI%20Lab-0EA5E9?style=flat-square" alt="Affctiv-AI Lab" /></a>
-<img src="https://img.shields.io/badge/Mensa%20Korea-1E3A8A?style=flat-square" alt="Mensa Korea" />
+<img src="https://github-readme-stats.vercel.app/api?username=white-endl&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=white-endl&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top languages" />
 
 </div>
 
@@ -105,5 +103,5 @@ A voice-based robot installed in kindergartens that talks with young children to
 `Leadership` `Focus` `Positive Influence` `Drive` `Responsibility` `ENTJ`
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=100&section=footer" width="100%" alt="" />
+<img src="https://komarev.com/ghpvc/?username=white-endl&color=4F46E5&style=flat-square" alt="Profile views" />
 </div>
