@@ -50,12 +50,14 @@ A voice-based robot installed in kindergartens that talks with young children to
 
 ## 🌱 Activities & Leadership
 
-- **Mensa Korea**: Puzzle Committee member, Social Contribution Committee member
-- **Univ. Makeus Challenge (Inha, 3rd)**: iOS Part Lead (organizing team)
-- **Inha Venture Club** (startup club, Inha Startup Support Foundation): Vice President, 26th
-- **INCOM** (Inha University central computer club): Treasurer, 41st
-- Ran an Incheon-based youth startup community program (commissioned project)
-- Completed **The Innovators** Supporters and **NEXT CHALLENGE FIS** (Future Innovation School), 1st cohort
+| Year | Activity |
+|---|---|
+| Present | **Mensa Korea**: Puzzle Committee member, Social Contribution Committee member |
+| 2023 | **Univ. Makeus Challenge (Inha, 3rd)**: iOS Part Lead (organizing team) |
+| 2023 | Completed **NEXT CHALLENGE FIS** (Future Innovation School), 1st cohort |
+| 2022 | **Inha Venture Club** (startup club, Inha Startup Support Foundation): Vice President, 26th |
+| 2021 | **INCOM** (Inha University central computer club): Treasurer, 41st |
+| | Completed **The Innovators** Supporters |
 
 ## 🛠️ Tech Stack
 
