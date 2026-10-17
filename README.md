@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=180&section=header&text=Baek%20Jae%20Yoon&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Affective%20AI%20%C2%B7%20Human-Robot%20Interaction%20%C2%B7%20BCI&descAlignY=58&descSize=16" width="100%" alt="Baek Jae Yoon" />
 
-<img src="assets/profile.png" width="160" alt="Baek Jae Yoon" />
+</div>
+
+<img align="right" src="assets/profile.png" width="170" alt="Baek Jae Yoon" />
 
 **M.S. Student in Artificial Intelligence, Inha University · <a href="https://affective.netlify.app/">Affctiv-AI Lab</a>**
 
@@ -13,7 +15,7 @@ Building AI that understands human emotion and talks with people.
 <a href="https://affective.netlify.app/"><img src="https://img.shields.io/badge/Affctiv--AI%20Lab-0EA5E9?style=flat-square" alt="Affctiv-AI Lab" /></a>
 <img src="https://img.shields.io/badge/Mensa%20Korea-1E3A8A?style=flat-square" alt="Mensa Korea" />
 
-</div>
+<br clear="right" />
 
 ## 👋 About
 
