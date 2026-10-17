@@ -28,6 +28,7 @@ A voice-based robot that talks with young children to build rapport, support emo
 ### Activities
 
 - Mensa Korea — Puzzle Committee, Social Contribution Committee
+- 2024 – 2025 — Web Service Launch & Operation, PM leading a team of 11 (4 frontend, 5 backend, 2 designers): planning, wireframes, web development, marketing
 - 2023 — Univ. Makeus Challenge (Inha, 3rd), iOS Part Lead
 - 2023 — NEXT CHALLENGE FIS (Future Innovation School), 1st cohort
 - 2022 — Inha Venture Club, Vice President (26th)
@@ -37,7 +38,7 @@ A voice-based robot that talks with young children to build rapport, support emo
 ### Skills
 
 **Languages** Python, C/C++, HTML/CSS/JavaScript  
-**Conversational AI** OpenAI API, NAVER CLOVA Speech  
+**Conversational AI** OpenAI API, NAVER CLOVA  
 **Embedded Systems** Arduino, Raspberry Pi  
 **3D Design & XR** Fusion 360, Inventor, 3D printing, laser cutting, Unity  
 **Growth & Data** GA4, Google Tag Manager  
