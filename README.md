@@ -12,8 +12,8 @@ Building AI that understands human emotion and talks with people.
 
 <a href="mailto:wit@inha.edu"><img src="https://img.shields.io/badge/wit@inha.edu-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.instagram.com/w_hite_0/"><img src="https://img.shields.io/badge/@w__hite__0-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://affective.netlify.app/"><img src="https://img.shields.io/badge/Affctiv--AI%20Lab-0EA5E9?style=flat-square" alt="Affctiv-AI Lab" /></a>
-<img src="https://img.shields.io/badge/Mensa%20Korea-1E3A8A?style=flat-square" alt="Mensa Korea" />
+<a href="https://affective.netlify.app/"><img src="https://img.shields.io/badge/Affctiv--AI%20Lab-0EA5E9?style=flat-square&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxyZWN0IHg9IjExIiB5PSIxIiB3aWR0aD0iMiIgaGVpZ2h0PSI0Ii8%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxLjgiIHI9IjEuNiIvPjxyZWN0IHg9IjMiIHk9IjUiIHdpZHRoPSIxOCIgaGVpZ2h0PSIxNCIgcng9IjQiLz48Y2lyY2xlIGN4PSI4LjUiIGN5PSIxMSIgcj0iMiIgZmlsbD0iIzBFQTVFOSIvPjxjaXJjbGUgY3g9IjE1LjUiIGN5PSIxMSIgcj0iMiIgZmlsbD0iIzBFQTVFOSIvPjxyZWN0IHg9IjgiIHk9IjE1IiB3aWR0aD0iOCIgaGVpZ2h0PSIxLjgiIHJ4PSIuOSIgZmlsbD0iIzBFQTVFOSIvPjxyZWN0IHg9IjAiIHk9IjkiIHdpZHRoPSIyIiBoZWlnaHQ9IjUiIHJ4PSIxIi8%2BPHJlY3QgeD0iMjIiIHk9IjkiIHdpZHRoPSIyIiBoZWlnaHQ9IjUiIHJ4PSIxIi8%2BPC9zdmc%2B" alt="Affctiv-AI Lab" /></a>
+<img src="https://img.shields.io/badge/Mensa%20Korea-1E3A8A?style=flat-square&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC41IDExSDE5VjdhMiAyIDAgMCAwLTItMmgtNFYzLjVhMi41IDIuNSAwIDAgMC01IDBWNUg0YTIgMiAwIDAgMC0yIDJ2My44aDEuNWEyLjcgMi43IDAgMCAxIDAgNS40SDJWMjBhMiAyIDAgMCAwIDIgMmgzLjh2LTEuNWEyLjcgMi43IDAgMCAxIDUuNCAwVjIySDE3YTIgMiAwIDAgMCAyLTJ2LTRoMS41YTIuNSAyLjUgMCAwIDAgMC01eiIvPjwvc3ZnPg%3D%3D" alt="Mensa Korea" />
 
 <br clear="right" />
 
@@ -61,7 +61,6 @@ A voice-based robot installed in kindergartens that talks with young children to
 | 2023 | Completed **NEXT CHALLENGE FIS** (Future Innovation School), 1st cohort |
 | 2022 | **Inha Venture Club** (startup club, Inha Startup Support Foundation): Vice President, 26th |
 | 2021 | **INCOM** (Inha University central computer club): General Affairs Officer, 41st |
-| | Completed **The Innovators** Supporters |
 
 ## 🛠️ Tech Stack
 
