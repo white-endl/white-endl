@@ -1,10 +1,9 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
+  <img src="assets/header-light.svg" width="100%" alt="Baek Jae Yoon · Affective computing, human-robot interaction, conversational AI" />
+</picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=180&section=header&text=Baek%20Jae%20Yoon&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Affective%20AI%20%C2%B7%20Human-Robot%20Interaction%20%C2%B7%20BCI&descAlignY=58&descSize=16" width="100%" alt="Baek Jae Yoon" />
-
-</div>
-
-<img align="right" src="assets/profile.png" width="170" alt="Baek Jae Yoon" />
+<img align="right" src="assets/profile.png" width="180" alt="Baek Jae Yoon" />
 
 **M.S. Student in Artificial Intelligence, Inha University · <a href="https://affective.netlify.app/">Affctiv-AI Lab</a>**
 
@@ -17,22 +16,23 @@ Building AI that understands human emotion and talks with people.
 
 <br clear="right" />
 
-## 👋 About
+I'm a master's student at Inha University's [Affctiv-AI Lab](https://affective.netlify.app/), building conversational robots that read and respond to children's emotions. Before research, I spent years starting things: startup clubs, accelerator programs, and a web service I ran as PM with an eleven-person team. I still like taking an idea all the way from plan to build to launch.
 
-- 🎓 **M.S. student**, Department of Electrical and Computer Engineering (Artificial Intelligence major), Inha University (Aug 2026 – present) · **[Affctiv-AI Lab](https://affective.netlify.app/)**
-- 🔬 Interests: **Affective Computing**, **Human-Robot Interaction**, conversational AI (LLM · STT · TTS), BCI, IoT
-- 🚀 I like turning ideas into working things, and aim to be a **full-stack maker** who can plan, build, design and market a product end to end.
-
-## 🎓 Education
+## Education
 
 | Period | Degree |
 |---|---|
 | Aug 2026 – present | **M.S.**, Electrical and Computer Engineering (Artificial Intelligence), Inha University · [Affctiv-AI Lab](https://affective.netlify.app/) |
 | – Aug 2026 | **B.S.**, Electrical and Electronic Engineering, Inha University |
 
-## 🔬 Research & Projects
+## Research
 
-### 🤖 Robi: An Affective Conversational Robot for Kindergartens <sub>[Affctiv-AI Lab](https://affective.netlify.app/) · 2026 –</sub>
+### Robi: An Affective Conversational Robot for Kindergartens <sub>[Affctiv-AI Lab](https://affective.netlify.app/) · 2026 –</sub>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/robi-pipeline-dark.svg" />
+  <img src="assets/robi-pipeline-light.svg" width="100%" alt="Robi conversation pipeline: RFID card, speech-to-text, LLM dialogue, text-to-speech, session log" />
+</picture>
 
 A voice-based robot installed in kindergartens that talks with young children to **build rapport, support emotional development, and assess (classify)** their responses.
 
@@ -43,7 +43,7 @@ A voice-based robot installed in kindergartens that talks with young children to
 
 <sub>※ Private lab repository</sub>
 
-## 🏆 Awards
+## Awards
 
 | Year | Award |
 |---|---|
@@ -51,7 +51,7 @@ A voice-based robot installed in kindergartens that talks with young children to
 | 2021 | **Grand Prize (University President's Award)**, i-Startup Lab Startup Accelerating |
 | 2021 | **Excellence Award (2nd Place)**, i-Startup Lab Super Challenge Makerthon |
 
-## 🌱 Activities & Leadership
+## Activities & Leadership
 
 | Year | Activity |
 |---|---|
@@ -62,7 +62,7 @@ A voice-based robot installed in kindergartens that talks with young children to
 | 2022 | **Inha Venture Club** (startup club, Inha Startup Support Foundation): Vice President, 26th |
 | 2021 | **INCOM** (Inha University central computer club): General Affairs Officer, 41st |
 
-## 🛠️ Tech Stack
+## Tools
 
 **Languages & Web**<br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -103,10 +103,6 @@ A voice-based robot installed in kindergartens that talks with young children to
 
 </details>
 
-## 💡 Keywords
+## Keywords
 
 `Leadership` `Focus` `Positive Influence` `Drive` `Responsibility` `ENTJ`
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=100&section=footer" width="100%" alt="" />
-</div>
